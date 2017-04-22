@@ -2,6 +2,7 @@
 =====================
 
 Short video about [Trunk Platform][2], company site [is here][1]. Contact person: Evgeny Dudin [nagliyvred@gmail.com][5]
+
 Position: [Senior Software Engineer][3]
 
 [Salary Calculator Australia][6]
